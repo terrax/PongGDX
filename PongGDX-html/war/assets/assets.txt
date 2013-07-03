@@ -1,0 +1,7 @@
+d:
+d:data
+i:data/ball.png
+i:data/libgdx.png
+t:data/msgothic.fnt
+i:data/msgothic_0.png
+i:data/paddle.png
